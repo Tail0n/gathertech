@@ -2,6 +2,8 @@
 
 Plataforma mobile desenvolvida para centralizar a divulgação, descoberta e organização de eventos de tecnologia, gestão e inovação. O projeto utiliza **React Native com Expo** no frontend e **Node.js, Express e PostgreSQL** no backend, oferecendo recursos de busca, filtros, favoritos, agenda e interação entre participantes.
 
+---
+
 ## Estrutura do Projeto
 
 - `backend/` — API REST (`server.js`), conexão com banco de dados PostgreSQL (`db.js`), autenticação com Google OAuth e envio de e-mails.
