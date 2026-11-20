@@ -1,13 +1,4 @@
-# Dependências do Node e Expo
 node_modules/
-
-# Arquivos temporários do Expo
+.env
 .expo/
 dist/
-web-build/
-
-# Senhas e variáveis de ambiente
-.env
-
-# Arquivos temporários do Windows
-Thumbs.db
