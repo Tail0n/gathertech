@@ -1,6 +1,6 @@
 # GatherTech
 
-Aplicativo mobile para divulgação, descoberta e gestão de eventos de tecnologia, desenvolvido com **React Native (Expo)** no frontend e **Node.js (Express + PostgreSQL)** no backend.
+Plataforma mobile desenvolvida para centralizar a divulgação, descoberta e organização de eventos de tecnologia, gestão e inovação. O projeto utiliza **React Native com Expo** no frontend e **Node.js, Express e PostgreSQL** no backend, oferecendo recursos de busca, filtros, favoritos, agenda e interação entre participantes.
 
 ## Estrutura do Projeto
 
@@ -17,3 +17,10 @@ Abra um terminal na pasta `backend` e execute:
 ```bash
 npm install
 node server.js
+````
+
+---
+
+## Direitos autorais
+
+© 2026 Desenvolvido por Maria Julia Sousa de Aquino Goes e Tailon dos Santos Santana. Todos os direitos reservados.
